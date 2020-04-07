@@ -1,4 +1,4 @@
-# MyWayToWebDev
+# myWayToWebDev
 
 I'm guiding myself through the courses available at frontendmasters.com (and I love it!).
 
